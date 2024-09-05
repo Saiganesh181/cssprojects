@@ -1,0 +1,14 @@
+/*child selector(>)*/
+/*div>p{
+background-clour:red;
+}*/
+/*section>p{
+background-color:green;
+}*/
+/*descendent selector (space)*/
+/*div p{
+background-color:green;
+}
+div>p{
+background-colour:red;
+}*/

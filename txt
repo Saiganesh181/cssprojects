@@ -1,0 +1,29 @@
+CSS:cascade style sheet
+cascading:set of rules
+CSS3:
+animations
+transitions and tranformation
+    RWD(responsive web design)
+    psuedoClass and psuedoelements
+    variables and counters etc
+
+    three different types CSS:
+    inline CSS
+    internal CSS
+    external CSS
+
+    different types of selectors
+    1.simple selectors
+    1.id,2.class,3.tag/element,4.universal selector 5.group selectors
+    
+    2.combinator selectors:
+    1.child selectors,2.descendent selector,3.sibling selctor,4.general sibling selectors
+
+    3.psuedoClass selector:
+    link,hover,active,nth-child,nth-type child,focus,disabled,readonly.
+
+    4.psuedoelements selectors:
+    ex:first child,first line,after,before,selection,placeholder marker.
+
+    5.attribute selectors:
+     ex:
